@@ -1,4 +1,4 @@
-package it.estrazioni.superenalotto;
+package it.estrazioni.superenalotto.web;
 
 public class SestinaCreationServlet {
 }
