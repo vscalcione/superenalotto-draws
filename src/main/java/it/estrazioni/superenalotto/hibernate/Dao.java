@@ -1,4 +1,4 @@
-package it.estrazioni.superenalotto.hibernate.dao;
+package it.estrazioni.superenalotto.hibernate;
 
 import it.estrazioni.superenalotto.hibernate.EstrazioniTo;
 

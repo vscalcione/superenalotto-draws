@@ -1,6 +1,4 @@
-package it.estrazioni.superenalotto.hibernate.dao;
-
-import it.estrazioni.superenalotto.hibernate.EstrazioniTo;
+package it.estrazioni.superenalotto.hibernate;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

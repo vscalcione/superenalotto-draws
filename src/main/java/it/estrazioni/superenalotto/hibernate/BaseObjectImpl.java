@@ -1,8 +1,4 @@
-package it.estrazioni.superenalotto.hibernate.bo;
-
-import it.estrazioni.superenalotto.hibernate.dao.Dao;
-import it.estrazioni.superenalotto.hibernate.dao.DaoImpl;
-import it.estrazioni.superenalotto.hibernate.EstrazioniTo;
+package it.estrazioni.superenalotto.hibernate;
 
 import java.util.ArrayList;
 import java.util.List;
