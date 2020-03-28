@@ -1,0 +1,12 @@
+it/estrazioni/superenalotto/struts/StrutsClass.class
+it/estrazioni/superenalotto/DataTest.class
+it/estrazioni/superenalotto/websupernealotto/CreationSestinaServlet.class
+it/estrazioni/superenalotto/hibernate/bo/Bo.class
+it/estrazioni/superenalotto/websupernealotto/RandomValuesGenerator.class
+it/estrazioni/superenalotto/CombinationsSuperEnalotto.class
+it/estrazioni/superenalotto/hibernate/bo/BoImpl.class
+it/estrazioni/superenalotto/hibernate/dao/Dao.class
+it/estrazioni/superenalotto/hibernate/dao/DaoImpl.class
+it/estrazioni/superenalotto/Estraction.class
+it/estrazioni/superenalotto/hibernate/EstractionsTo.class
+it/estrazioni/superenalotto/websupernealotto/MethodsReader.class
